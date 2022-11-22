@@ -1,0 +1,15 @@
+.btn{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 9899;
+}
+.btn-mode{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+   margin-bottom: 15px;
+    margin-right: 80px;
+    z-index: 9899;
+}
+
