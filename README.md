@@ -14,6 +14,10 @@ cd tugas-mapid
 ```sh
 npm install
 ```
+## Install Axios
+```sh
+npm install axios
+```
 ## Jalankan Projek
 ```sh
 npm start
