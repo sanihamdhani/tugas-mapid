@@ -10,6 +10,10 @@ git clone https://github.com/sanihamdhani/tugas-mapid.git
 ```sh
 cd tugas-mapid
 ```
+## Install Modul
+```sh
+npm install
+```
 ## Jalankan Projek
 ```sh
 npm start
