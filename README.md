@@ -21,8 +21,6 @@ npm start
 ```
 
 ## Package Yang Digunakan
-**Params**
-
 * [Mapbox]https://www.mapbox.com/
 * [react-map-gl]https://urbica.github.io/react-map-gl/#/Introduction
 * [react-redux]https://react-redux.js.org/
